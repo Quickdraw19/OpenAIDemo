@@ -1,0 +1,25 @@
+{
+  "name": "openaidemo",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quickdraw19/OpenAIDemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Quickdraw19/OpenAIDemo/issues"
+  },
+  "homepage": "https://github.com/Quickdraw19/OpenAIDemo#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
+}
